@@ -47,12 +47,12 @@
 
 ### Train
 ```
-python main.py --dataset celebA-HQ_gender --phase train
+python main.py --dataset celeba_hq_gender --phase train
 ```
 
 ### Test
 ```
-python main.py --dataset celebA-HQ_gender --phase test
+python main.py --dataset celeba_hq_gender --phase test
 ```
 
 
